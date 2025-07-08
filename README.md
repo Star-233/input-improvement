@@ -1,5 +1,5 @@
 # input-improvement
-Use SiliconFlow AI API to enhance input, tap the keyboard three times to call AI-improved input.Supports Windows only.
+Use SiliconFlow AI API to enhance input, tap the keyboard three times to call AI-improved input.For example, add an emoji at the end of a sentence.Supports Windows only.
 
 ## How to use
 Make sure dependencies are installed
