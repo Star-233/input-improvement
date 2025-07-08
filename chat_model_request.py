@@ -16,7 +16,7 @@ def read_file_content(file_path):
 # 封装请求聊天模型的函数
 def chat_with_model(
     prompt: str,  # 添加类型注解
-    api_key="sk-zdxuyjxqckewznaumqthglpvevopfvpiehqkkxrwnyntxsow",
+    api_key="sk-zdxuyqwqckqwqnauqwqglpveqwqpiehqkqwqnynqwqwqow",
     base_url="https://api.siliconflow.cn/v1/chat/completions",
     model="Qwen/Qwen3-8B",
 ):
